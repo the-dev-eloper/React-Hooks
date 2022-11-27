@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-export default function HookCounterOne() {
+export default function HookCounter() {
 
     const [count, setCount] = useState(0);
 
